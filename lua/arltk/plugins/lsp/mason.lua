@@ -35,7 +35,7 @@ return {
 				"bashls",
 				"dockerls",
 				"jsonls",
-				"nginx-language-server",
+				--"nginx-language-server", -- not working
 				"powershell_es",
 				"yamlls",
 				"ansiblels",
