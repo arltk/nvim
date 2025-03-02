@@ -16,6 +16,10 @@ return {
 
 			require("tokyonight").setup({
 				style = "night",
+				styles = {
+					sidebars = "transparent",
+					floats = "transparent",
+				},
 				transparent = "true",
 				--        on_colors = function(colors)
 				--          colors.bg = bg
